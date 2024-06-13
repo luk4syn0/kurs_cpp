@@ -1,0 +1,3 @@
+C:/ProjektyCPP/ZadKcppZaliczenie/ZadClassKcpp/build/CMakeFiles/ZadClassKcpp.dir
+C:/ProjektyCPP/ZadKcppZaliczenie/ZadClassKcpp/build/CMakeFiles/edit_cache.dir
+C:/ProjektyCPP/ZadKcppZaliczenie/ZadClassKcpp/build/CMakeFiles/rebuild_cache.dir
